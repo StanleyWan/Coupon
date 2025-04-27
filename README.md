@@ -25,13 +25,13 @@ The assignment is to find out the differences between customers who did and did 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/temperature%20distribution.png)
 
 ### B. Bar Coupon Specific
-<ul>
-<l1>1. Overall Bar Coupon Acceptance Rate: 41%</l1>
-<l1>2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%</l1>
-<l1>2b. Acceptance Rate for those drivers who go to the bar greater than 3 time a month: 76.88%</l1>
-<l1>3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%</l1>
-<l1>3b. Acceptance Rate for those drivers who visit bar once or less a month and the age is under 25: 38.38%</l1>
-<l1>4a. Acceptance Rata for drivers that visit bar >1 a month, the occupations is not farming, fishing or forestry, and passengers not a kid: 77.49%</l1>
-<l1>4b. Acceptance rate for everyone else of the 4a: 37.19%</l1>
-<l1>5a. Acceptance rate for driver that (visit bar >1 a month, passenger were not kid or widowed), or (visit bar >1 a month and the age <30) or (visit cheap restaruant >4 o month and income >50K): </l1>
-</ul>
+
+1. Overall Bar Coupon Acceptance Rate: 41%
+2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
+2b. Acceptance Rate for those drivers who go to the bar greater than 3 time a month: 76.88%
+3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
+3b. Acceptance Rate for those drivers who visit bar once or less a month and the age is under 25: 38.38%
+4a. Acceptance Rata for drivers that visit bar >1 a month, the occupations is not farming, fishing or forestry, and passengers not a kid: 77.49%
+4b. Acceptance rate for everyone else of the 4a: 37.19%
+5a. Acceptance rate for driver that (visit bar >1 a month, passenger were not kid or widowed), or (visit bar >1 a month and the age <30) or (visit cheap restaruant >4 o month and income >50K): 
+
