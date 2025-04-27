@@ -26,8 +26,8 @@ The assignment is to find out the differences between customers who did and did 
 
 ### B. Bar Coupon Specific
 
-1a. this is line one
-2a. this is line two
+1a.this is line one
+2a.this is line two
 
 1. Overall Bar Coupon Acceptance Rate: 41%
 
