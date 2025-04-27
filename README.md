@@ -26,11 +26,11 @@ The assignment is to find out the differences between customers who did and did 
 
 ### B. Bar Coupon Specific
 
-1a. Overall Bar Coupon Acceptance Rate: 41%
+1. Overall Bar Coupon Acceptance Rate: 41%
 
-2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
+2. - Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
 
-2b. Acceptance Rate for those drivers who go to the bar greater than 3 times a month: 76.88%
+   -  Acceptance Rate for those drivers who go to the bar greater than 3 times a month: 76.88%
 
 3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
 
