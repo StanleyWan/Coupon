@@ -25,7 +25,6 @@ The assignment is to find out the differences between customers who did and did 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/temperature%20distribution.png)
 
 ### B. Bar Coupon Specific
-
 1. Overall Bar Coupon Acceptance Rate: 41%
 
 2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
