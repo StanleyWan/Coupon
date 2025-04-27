@@ -16,8 +16,12 @@ The assignment is to find out the differences between customers who did and did 
 ## Summary of findings
 
 ### General
-Generally, the acceptance rate of the coupons is 56.8%
+1. the general acceptance rate of the coupons is 56.8%
+2. the bar chart of the acceptance rate of the coupons
 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/general_coupons.png)
+
+3. The histogram of the temperature column
+
 
 ###Bar Coupon Specific
