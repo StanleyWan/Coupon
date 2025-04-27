@@ -32,12 +32,12 @@ The assignment is to find out the differences between customers who did and did 
 
    -  Acceptance Rate for those drivers who go to the bar greater than 3 times a month: 76.88%
 
-3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
+3. -  Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
 
-3b. Acceptance Rate for those drivers who visit bars once or less a month and the age is under 25: 38.38%
+   -  Acceptance Rate for those drivers who visit bars once or less a month and the age is under 25: 38.38%
 
-4a. Acceptance Rate for drivers that visit bars >1 time a month, the occupation is not farming, fishing, or forestry, and passengers are not kids: 77.49%
+4. -  Acceptance Rate for drivers that visit bars >1 time a month, the occupation is not farming, fishing, or forestry, and passengers are not kids: 77.49%
 
-4b. Acceptance Rate for everyone else of 4a: 37.19%
+   -  Acceptance Rate for everyone else of 4a: 37.19%
 
-5a. Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): [your % here]
+5. -  Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): [your % here]
