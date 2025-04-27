@@ -26,22 +26,18 @@ The assignment is to find out the differences between customers who did and did 
 
 ### B. Bar Coupon Specific
 
-1a.this is line one
-2a.this is line two
-
 1. Overall Bar Coupon Acceptance Rate: 41%
 
-2. 
-   - 2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
-   - 2b  Acceptance Rate for those drivers who go to the bar greater than 3 times a month: 76.88%
+2a. Acceptance Rate for those drivers who go to the bar 3 or fewer times a month: 37.06%
 
-3. 
-    - 3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
-    - 3b. Acceptance Rate for those drivers who visit bars once or less a month and the age is under 25: 38.38%
+2b. Acceptance Rate for those drivers who go to the bar greater than 3 times a month: 76.88%
 
-4. 
-    - 4a. Acceptance Rate for drivers that visit bars >1 time a month, the occupation is not farming, fishing, or forestry, and the passenger is not a kid: 77.49%
-    - 4b. Acceptance Rate for everyone else of 4a: 37.19%
+3a. Acceptance Rate for those drivers who visit bars more than once a month and the age is over 25: 77.21%
 
-5. 
-    - 5a. Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): [You need to add the % here if you have it.]
+3b. Acceptance Rate for those drivers who visit bars once or less a month and the age is under 25: 38.38%
+
+4a. Acceptance Rate for drivers that visit bars >1 time a month, the occupation is not farming, fishing, or forestry, and passengers are not kids: 77.49%
+
+4b. Acceptance Rate for everyone else of 4a: 37.19%
+
+5a. Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): [your % here]
