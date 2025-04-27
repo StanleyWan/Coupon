@@ -22,6 +22,6 @@ The assignment is to find out the differences between customers who did and did 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/Coupon_Type_Distribution.png)
 
 3. The histogram of the temperature column
-
+![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/temperature%20distribution.png)
 
 ###Bar Coupon Specific
