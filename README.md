@@ -19,7 +19,7 @@ The assignment is to find out the differences between customers who did and did 
 1. the general acceptance rate of the coupons is 56.8%
 2. the bar chart of the acceptance rate of the coupons
 
-![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/general_coupons.png)
+![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/Coupon_Type_Distribution.png)
 
 3. The histogram of the temperature column
 
