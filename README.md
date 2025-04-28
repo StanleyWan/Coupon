@@ -17,11 +17,11 @@ The assignment is to find out the differences between customers who did and did 
 
 ### A. General
 1. the general acceptance rate of the coupons is 56.8%
-2. the bar chart of the acceptance rate of the coupons
+2. the following is the bar chart of the acceptance rate of the coupons
 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/Coupon_Type_Distribution.png)
 
-3. The histogram of the temperature column
+3. The following is the histogram of the temperature column
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/temperature%20distribution.png)
 
 ### B. Bar Coupon Specific
@@ -38,6 +38,12 @@ The assignment is to find out the differences between customers who did and did 
 
 4. -  Acceptance Rate for drivers that visit bars >1 time a month, the occupation is not farming, fishing, or forestry, and passengers are not kids: 77.49%
 
-   -  Acceptance Rate for everyone else of 4a: 37.19%
+   -  Acceptance Rate for drivers else: 37.19%
 
-5. -  Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): [your % here]
+5. -  Acceptance Rate for drivers that (visit bars >1 time a month, passengers were not kids or widowed), or (visit bars >1 time a month and the age <30), or (visit cheap restaurants >4 times a month and income >50K): 58.73%
+   -  Acceptance Rate for drivers else: 54.76%
+     
+## Hypothesize
+Those drivers who are high frequentcy of Bar visiting, the age between 25-30,  the occupation is not framing, fishing or forestry and the passengers are not kids will very likely accept the bar coupon.
+
+### Independent Investigation
