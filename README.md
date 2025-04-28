@@ -5,7 +5,7 @@ Assignment 5.1: Will the Customer Accept the Coupon
 The goal of this project is to use the visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not.
 
 ## Data
-This [dataset]() is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
+This [dataset](https://github.com/StanleyWan/Coupon/blob/main/data/coupons.csv) is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
 
 ## Jupyter Notebook
 Here is the link of the Jupyter Notebook with visualizations and probability distributions
