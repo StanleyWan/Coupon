@@ -62,5 +62,5 @@ Analysis focused on drivers who accept the Coffee coupons
 8. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop less than 1 is: 48.19%
 9. Acceptance Rate for the Coffee Coupon for the driver who never visit coffee shop is: 18.88%
 
-
+![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/coffee_visit.png)
 
