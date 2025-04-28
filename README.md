@@ -65,3 +65,5 @@ Analysis focused on drivers who accept the Coffee coupons
 
 ![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/coffee_visit.png)
 
+## Hypothesize
+From the data findings,  the high frequency coffee shop goers will very likely accept the coffee coupons.
