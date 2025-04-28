@@ -47,3 +47,5 @@ The assignment is to find out the differences between customers who did and did 
 Those drivers who are high frequentcy of Bar visiting, the age between 25-30,  the occupation is not framing, fishing or forestry and the passengers are not kids will very likely accept the bar coupon.
 
 ### Independent Investigation
+Analysis focused on drivers who accept the Coffee coupons
+
