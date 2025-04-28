@@ -48,7 +48,8 @@ Those drivers who are high frequentcy of Bar visiting, the age between 25-30,  t
 
 # Independent Investigation
 Analysis focused on drivers who accept the Coffee coupons
-##Summary of findings
+
+## Summary of findings
 1. Acceptance Rate for the Coffee Coupon for the driver whose age <25 is : 55.01%
 2. Acceptance Rate for the Coffee Coupon for the driver whose age is between 25-35 is: 49.86%
 3. Acceptance Rate for the Coffee Coupon for the driver whose age is between 35-50 is: 56.45%
