@@ -46,6 +46,15 @@ The assignment is to find out the differences between customers who did and did 
 ## Hypothesize
 Those drivers who are high frequentcy of Bar visiting, the age between 25-30,  the occupation is not framing, fishing or forestry and the passengers are not kids will very likely accept the bar coupon.
 
-### Independent Investigation
+# Independent Investigation
 Analysis focused on drivers who accept the Coffee coupons
-
+##Summary of findings
+1. Acceptance Rate for the Coffee Coupon for the driver whose age <25 is : 55.01%
+2. Acceptance Rate for the Coffee Coupon for the driver whose age is between 25-35 is: 49.86%
+3. Acceptance Rate for the Coffee Coupon for the driver whose age is between 35-50 is: 56.45%
+4. Acceptance Rate for the Coffee Coupon for the driver whose age is >50 is not available
+5. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop 1-3 is: 64.78%
+6. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop 4-8 is: 68.59%
+7. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop greater than 8 is: 65.79%
+8. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop less than 1 is: 48.19%
+9. Acceptance Rate for the Coffee Coupon for the driver who never visit coffee shop is: 18.88%
