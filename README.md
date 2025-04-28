@@ -8,7 +8,7 @@ The goal of this project is to use the visualizations and probability distributi
 This [dataset](https://github.com/StanleyWan/Coupon/blob/main/data/coupons.csv) is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk.
 
 ## Jupyter Notebook
-Here is the link of the Jupyter Notebook with visualizations and probability distributions
+Here is [the link of the Jupyter Notebook](https://github.com/StanleyWan/Coupon/blob/main/prompt.ipynb) with visualizations and probability distributions
 
 ## The Assignment
 The assignment is to find out the differences between customers who did and did not accept the coupons.  And then to generate visualizations and probability distributions using python.
