@@ -53,8 +53,14 @@ Analysis focused on drivers who accept the Coffee coupons
 2. Acceptance Rate for the Coffee Coupon for the driver whose age is between 25-35 is: 49.86%
 3. Acceptance Rate for the Coffee Coupon for the driver whose age is between 35-50 is: 56.45%
 4. Acceptance Rate for the Coffee Coupon for the driver whose age is >50 is not available
+
+![image_alt](https://github.com/StanleyWan/Coupon/blob/main/findings/age_group.png)
+
 5. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop 1-3 is: 64.78%
 6. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop 4-8 is: 68.59%
 7. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop greater than 8 is: 65.79%
 8. Acceptance Rate for the Coffee Coupon for the driver who visit coffee shop less than 1 is: 48.19%
 9. Acceptance Rate for the Coffee Coupon for the driver who never visit coffee shop is: 18.88%
+
+
+
